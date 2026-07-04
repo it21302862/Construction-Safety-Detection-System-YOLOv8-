@@ -1,0 +1,12 @@
+train: D:/documents/RL/YOLO-2/train
+val: D:/documents/RL/YOLO-2/val
+
+nc: 2
+names: ["hat", "jacket"]
+
+
+# train: /content/drive/MyDrive/dataset/train/images
+# val: /content/drive/MyDrive/dataset/val/images
+
+# nc: 2
+# names: ["hat", "jacket"]
